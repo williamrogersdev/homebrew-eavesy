@@ -1,6 +1,6 @@
 cask "eavesy" do
-  version "0.7.1"
-  sha256 "d95ad3a198c22c10d10cfbc4ff5cefcf195af647c9b6aba17fe8f6355741a3d9"
+  version "0.8.0"
+  sha256 "7dddb145ad436413723d55060ff15b15ee73f5925c29a4ef0a73704732c97993"
 
   url "https://eavesy.com/api/downloads/mac/Eavesy_#{version}_aarch64.dmg"
   name "Eavesy"
